@@ -1,0 +1,7 @@
+main: me.rafael5gr2.debugger.Debugger
+name: Debugger
+version: ${pluginVersion}
+description: ${pluginDescription}
+api-version: 1.19
+load: STARTUP
+authors: [ rafael5gr2 ]
